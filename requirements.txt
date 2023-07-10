@@ -1,0 +1,5 @@
+PySimpleGUI
+srt
+logging
+SpeechRecognition
+moviepy
