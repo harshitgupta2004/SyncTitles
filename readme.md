@@ -2,7 +2,7 @@
 
 A Python program to automatically sync subtitles with the wrong framerate by comparing speech in the video to text in the subtitles. 
 
-This program is usefule for those whose subtitles keep getting out of sync with audio/video.
+This program is useful for those whose subtitles keep getting out of sync with audio/video.
 
 The tool offers two methods of synchronization: manual and automatic. In the manual mode, users can input specific timestamps from the SRT file and the corresponding video. The program then calculates correction factors based on these timestamps and applies them to the entire subtitle file, aligning the subtitles with the video.
 
